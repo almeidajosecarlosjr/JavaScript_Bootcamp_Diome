@@ -1,2 +1,3 @@
-# JavaScript_Bootcamp_Diome
-Esse repositorio foi desenvolvido durante o curso de JavaScript realizado em parceira pela Dio.me e o iFood.
+# JavaScript Developer: Módulo I
+
+Repositório de Referência do Módulo I da Trilha "JavaScript Developer" 
